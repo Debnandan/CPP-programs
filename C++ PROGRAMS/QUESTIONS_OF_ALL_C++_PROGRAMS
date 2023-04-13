@@ -2,24 +2,24 @@
 2.  Write a program to print the sum of 2 numbers given by the user.
 3.  Write a program to print the area of a circle.
 4.  Write a program to print the area of a triangle.
-5.	Write a program to check age. If the age is greater than equal to 18 you can vote less than 18 is not allowed.
-6.	write a program to print the cube of the number using the power function.
-7.	Write a program to check whether a given number is even or odd.
-8.	Write a program to check whether a given input is a character or not.
-9.	Write a program to print grades by entering marks from the user.
-10.	Write a program to print the days of the week by entering numbers 1-7.
-11.	Write a program to check whether the given alphabet is in uppercase or lowercase.
-12.	Write a program to print hello world using for loop.
-13.	Write a program to check whether the given number is prime or not.
-14.	Write a program to print hello world using (while loop).
-15.	Write a program to print hello world using (do while loop).
-16.	Write a program by using (break).
-17.	Write a program by using (continue).
-18.	Write a program to print the variable’s address using (pointer).
-19.	Write a program to print the pointer’s address using pointer to pointer.
-20.	Write a program to print the marks of 4 students using array + loop.
-21.	Write a program to print the sum of all even numbers and odd numbers from 1 to num.
-22.	Write a program to check whether the given number is a perfect number or not. E.g. – 6, 1+2+3=6.
+5.  Write a program to check age. If the age is greater than equal to 18 you can vote less than 18 is not allowed.
+6.  write a program to print the cube of the number using the power function.
+7.  Write a program to check whether a given number is even or odd.
+8.  Write a program to check whether a given input is a character or not.
+9.  Write a program to print grades by entering marks from the user.
+10. Write a program to print the days of the week by entering numbers 1-7.
+11. Write a program to check whether the given alphabet is in uppercase or lowercase.
+12. Write a program to print hello world using for loop.
+13. Write a program to check whether the given number is prime or not.
+14. Write a program to print hello world using (while loop).
+15. Write a program to print hello world using (do while loop).
+16. Write a program by using (break).
+17. Write a program by using (continue).
+18. Write a program to print the variable’s address using (pointer).
+19. Write a program to print the pointer’s address using pointer to pointer.
+20. Write a program to print the marks of 4 students using array + loop.
+21. Write a program to print the sum of all even numbers and odd numbers from 1 to num.
+22. Write a program to check whether the given number is a perfect number or not. E.g. – 6, 1+2+3=6.
 23. pattern generation using for loop.   
         A.  12345
             12345
